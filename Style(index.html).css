@@ -1,19 +1,19 @@
 /* Pagina 1(Inicio)
  */
- .btn{
-    display: block;  
-    width: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    background-color: rgb(126, 179, 223);
-    color: black;
+.btn {
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(163, 40, 112);
+    color: white;
     border-radius: 10px;
-    padding: 15px 30px;
+    padding: 30px 150px;
     text-decoration: none;
+    font-size: 50px;
 }
-.body {
-    background-image: url(./calido-guardar-papel-tapiz-textura-oscura_1258-284.avif);
-    background-size: cover;
+
+body {
+    background-image: url(./Imagenes/Pantalla\ inicio.jpg);
+    background-size: contain;
     display: flex;
     align-items: center;
     justify-content: center;
