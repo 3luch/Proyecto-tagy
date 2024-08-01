@@ -5,18 +5,14 @@
     width: 50px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
-    background-color: rgb(143, 31, 218);
-    color: white;
+    background-color: rgb(126, 179, 223);
+    color: black;
     border-radius: 10px;
     padding: 15px 30px;
     text-decoration: none;
-    margin: 400px 500px;
+    margin: 300px 600px;
 }
-.btn{
-    background-color: transparent;
-    border: 2px solid rgb(143, 31, 218);
-    color: rgb(143, 31, 218);
-}
+
 
 /* Pagina 2 (Iniciar sesion y Registrarse*/
 
